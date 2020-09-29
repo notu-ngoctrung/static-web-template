@@ -1,2 +1,4 @@
 # static-web-template
-My first static web project back in 2013
+My first static web project back in 2013 (exactly in September 2013)
+
+Languages used: HTML, CSS + JS
